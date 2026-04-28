@@ -22,10 +22,10 @@
 - **业务场景 (Context):** 为管理层季度复盘提供支持，实时监控设计师与美工的人效产出与制图产出比。
 - **技术栈 (Tech Stack):** Power BI (高级 DAX 建模), SQL 自动化预处理。
 - **核心成果 (Impact):** 实现了人效指标的自动化核算，将季度复盘数据准备时间从 3 天缩短至 1 小时。
-- **[🔗 点击此处在线体验报表 (Live Demo Link)]([这里粘贴你该项目的公开URL](https://app.powerbi.com/links/Jxb_jdFITl?ctid=fe82df55-cf04-425b-92ff-7a23e5be4857&pbi_source=linkShare))**
+- **[🔗 点击此处在线体验报表 (Live Demo Link)](https://app.powerbi.com/links/Jxb_jdFITl?ctid=fe82df55-cf04-425b-92ff-7a23e5be4857&pbi_source=linkShare))**
 
 #### 报表预览 (Preview):
-![Global Ops](./ScreenShot_Global%20Operations%20Performance%20Hu.png)
+![Global Ops](./ScreenShot_Global%20Operations%20Performance%20Hub.png)
 
 ---
 
